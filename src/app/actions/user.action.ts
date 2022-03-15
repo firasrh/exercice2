@@ -6,7 +6,7 @@ export class AddUser {
     constructor(public payload: User) {
     }
 }
-
+const firas = '';
 export class UpdateUser {
     static readonly type = '[User] Update';
 
